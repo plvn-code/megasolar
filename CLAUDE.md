@@ -4,6 +4,9 @@ Client site for **MEGASOLAR** (Полтава, вул. Автобазівськ�
 
 **Talk to the user in Russian.** Site copy is **Ukrainian only** (`lang="uk"`, ’ apostrophes, «» quotes). Read `docs/STATUS.md` first (open client questions, launch checklist).
 
+## Repo
+GitHub `plvn-code/megasolar`, branch `main`. No Vercel yet — ask before creating it.
+
 ## Commands
 ```bash
 npm run dev                                   # port 3023

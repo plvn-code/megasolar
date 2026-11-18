@@ -1,6 +1,6 @@
 # Status — started 2026-11-18
 
-Local preview: http://localhost:3023. Local git only — no GitHub / Vercel yet (ask the user first).
+Local preview: http://localhost:3023. GitHub: github.com/plvn-code/megasolar (main). No Vercel yet — ask first.
 
 ## Done
 Full redesign in Ukrainian: home (video hero, manifest, «Анатомія станції» scroll scene, ready stations rail, objects stack, consumption calculator that picks a real kit, process with drone video, why us, client video review, guarantees, credit band, engineering tips, FAQ, request band), 19 station pages with transparent composition tables, catalogue (5 categories, 126 products with filters, brand chips, search, sort), product pages, request cart, 11 object pages, services with price tables, credit (4 banks), about, FAQ (+FAQPage schema), contacts, 404, sitemap, robots. Checked at 1440 and 390 px; no horizontal scroll; lint + tsc clean.
